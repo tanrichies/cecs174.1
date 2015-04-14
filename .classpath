@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Homework"/>
+	<classpathentry kind="src" path="Lab6.0"/>
+	<classpathentry kind="src" path="Lab7"/>
+	<classpathentry kind="src" path="Lab_Validate"/>
+	<classpathentry kind="src" path="Loop Lab"/>
+	<classpathentry kind="src" path="Methods Lab"/>
+	<classpathentry kind="src" path="Array Lab"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
